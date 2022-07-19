@@ -2,32 +2,32 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-18T13:04:08.297556Z",
+      "created": "2022-07-19T10:58:34.460562Z",
       "format": null,
-      "last_modified": "2022-07-18T13:04:06.605545Z",
-      "mimetype": "text/markdown",
-      "name": "README.md",
-      "path": "README.md",
-      "size": 5234,
-      "type": "file",
-      "writable": true
-    },
-    {
-      "content": null,
-      "created": "2022-07-18T13:04:08.297556Z",
-      "format": null,
-      "last_modified": "2022-07-18T13:04:06.605545Z",
+      "last_modified": "2022-07-19T10:58:31.972586Z",
       "mimetype": null,
       "name": "jupyterlite_compare_view_notebook.ipynb",
       "path": "jupyterlite_compare_view_notebook.ipynb",
       "size": 3537,
       "type": "notebook",
       "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-19T10:58:34.460562Z",
+      "format": null,
+      "last_modified": "2022-07-19T10:58:31.972586Z",
+      "mimetype": "text/markdown",
+      "name": "README.md",
+      "path": "README.md",
+      "size": 5234,
+      "type": "file",
+      "writable": true
     }
   ],
-  "created": "2022-07-18T13:04:08.297556Z",
+  "created": "2022-07-19T10:58:34.460562Z",
   "format": "json",
-  "last_modified": "2022-07-18T13:04:08.297556Z",
+  "last_modified": "2022-07-19T10:58:34.460562Z",
   "mimetype": null,
   "name": "",
   "path": "",
